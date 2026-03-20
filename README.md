@@ -42,7 +42,9 @@ QR code image generated and saved locally.
 qr-code-generator/
 
 │── main.py
+
 │── requirements.txt
+
 │── README.md
 
 ---
