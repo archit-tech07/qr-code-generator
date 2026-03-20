@@ -86,7 +86,3 @@ os.startfile(file_path)
 #     os.system(f"xdg-open {name}.png")
 
 print("QR code generated Succesfully!!")
-
-
-
-print("QR code generated Succesfully!!")
